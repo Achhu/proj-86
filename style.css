@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(HB.gif);
+    background-position:center;
+    background-size:auto;
+}
+#myCanvas
+{
+  border-width: 10px; 
+  background-color: white;
+  border-style: ridge;
+  border-color:springgreen;
+}
+
+#button
+{
+  border-width: 10px;
+  background-color:rgb(255, 124, 2);
+  border-color:forestgreen;
+}
+
